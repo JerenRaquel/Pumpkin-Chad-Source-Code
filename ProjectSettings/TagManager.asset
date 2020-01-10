@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BackGround
+  - EaterOfWorlds
+  - ScreenBoundary
+  - Ghost
+  - Ground
+  - Shot
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Particles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Backgound
+    uniqueID: 2230385129
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 3217319587
+    locked: 0
+  - name: Player
+    uniqueID: 118420187
+    locked: 0
+  - name: Ghost/normal
+    uniqueID: 790442031
+    locked: 0
+  - name: Ghost/Boss
+    uniqueID: 2922646429
+    locked: 0
+  - name: Projectiles
+    uniqueID: 560540085
+    locked: 0
+  - name: FireWall
+    uniqueID: 1007016825
+    locked: 0

@@ -1,8 +1,8 @@
 # Pumpkin-Chad-Source-Code
 
-This [source code] is the source code done in Unity3D.
+This is the source code done in Unity3D.
 
-## Description
+## Description for the finished repo
 This is a refined version of a game that was created during a game jam. The original version should be v1.0.
 
 Contributions:

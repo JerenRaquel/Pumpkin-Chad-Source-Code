@@ -6,9 +6,9 @@ This is the source code done in Unity3D.
 This is a refined version of a game that was created during a game jam. The original version should be v1.0.
 
 Contributions:
--All code was done by me
--Sprite and cut scene art done by Rashid and Jaleeya
--Background and menu art done by Cameron
+- All code was done by Jeren
+- Sprite and cut scene art done by Rashid and Jaleeya
+- Background and menu art done by Cameron
 
 Current version v1.1
 
@@ -16,4 +16,4 @@ Current version v1.1
 https://github.com/JerenRaquel/Pumpkin-Chad-The-Haunting
 
 ## Link to finished product
-https://jerenraquel.github.io/PumpkinChadFiles/Pumpkin%20Chad.html
+This is being remade in the Godot engine and will be updated with new link once finished and uploaded to itch.io
